@@ -1,1 +1,2 @@
 # Beer-bottle-game
+There are 21 beer bottles. Each player will take turns picking from 1 to 4 bottles at a time. Whoever picks the bottles at last loses (i.e. player to pick the last bottle) and has to pay.
